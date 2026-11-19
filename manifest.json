@@ -1,0 +1,9 @@
+{
+	"id": "advanced-find-replace",
+	"name": "Advanced Find & Replace",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Motore avanzato di ricerca e sostituzione con supporto Regex, Unicode, ambito di selezione e gruppi.",
+	"author": "Developer",
+	"isDesktopOnly": false
+}
